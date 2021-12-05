@@ -5,6 +5,27 @@
         <link>https://zaaachary.github.io/</link>
         <description>Recent content on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Sun, 05 Dec 2021 23:44:07 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo_commmand</title>
+        <link>https://zaaachary.github.io/post/hugo_commmand/</link>
+        <pubDate>Sun, 05 Dec 2021 23:44:07 +0800</pubDate>
+        
+        <guid>https://zaaachary.github.io/post/hugo_commmand/</guid>
+        <description>&lt;h1 id=&#34;hugo-命令&#34;&gt;Hugo 命令&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;hugo server --theme=stack --buildDrafts&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo --theme=stack --baseUrl=&amp;quot;https://zaaachary.github.io/&amp;quot;&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>First</title>
+        <link>https://zaaachary.github.io/post/first/</link>
+        <pubDate>Sun, 05 Dec 2021 22:51:19 +0800</pubDate>
+        
+        <guid>https://zaaachary.github.io/post/first/</guid>
+        <description>&lt;h1 id=&#34;first-post&#34;&gt;First Post&lt;/h1&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
