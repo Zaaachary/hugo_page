@@ -2,23 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zaaachary.github.io/</loc>
-    <lastmod>2021-12-05T23:44:07+08:00</lastmod>
-  </url><url>
-    <loc>https://zaaachary.github.io/post/hugo_commmand/</loc>
+    <loc>https://zaaachary.github.io/p/hugo_commmand/</loc>
     <lastmod>2021-12-05T23:44:07+08:00</lastmod>
   </url><url>
     <loc>https://zaaachary.github.io/post/</loc>
     <lastmod>2021-12-05T23:44:07+08:00</lastmod>
   </url><url>
-    <loc>https://zaaachary.github.io/post/first/</loc>
-    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+    <loc>https://zaaachary.github.io/tags/</loc>
+    <lastmod>2021-12-05T23:44:07+08:00</lastmod>
   </url><url>
-    <loc>https://zaaachary.github.io/about/</loc>
-    <lastmod>2021-12-05T22:24:25+08:00</lastmod>
+    <loc>https://zaaachary.github.io/tags/%E5%BE%80%E4%BA%8B%E5%A6%82%E7%83%9F2/</loc>
+    <lastmod>2021-12-05T23:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/</loc>
+    <lastmod>2021-12-05T23:44:07+08:00</lastmod>
   </url><url>
     <loc>https://zaaachary.github.io/categories/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
   </url><url>
-    <loc>https://zaaachary.github.io/tags/</loc>
+    <loc>https://zaaachary.github.io/content_son/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/p/first/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/content_son/first/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/categories/test/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/categories/test2/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/tags/%E5%BE%80%E4%BA%8B%E5%A6%82%E7%83%9F/</loc>
+    <lastmod>2021-12-05T22:51:19+08:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaaachary.github.io/search/</loc>
   </url>
 </urlset>

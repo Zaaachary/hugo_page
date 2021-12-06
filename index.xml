@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title></title>
+        <title>快刀切草莓君</title>
         <link>https://zaaachary.github.io/</link>
-        <description>Recent content on </description>
+        <description>Recent content on 快刀切草莓君</description>
         <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
         <lastBuildDate>Sun, 05 Dec 2021 23:44:07 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo_commmand</title>
-        <link>https://zaaachary.github.io/post/hugo_commmand/</link>
+        <link>https://zaaachary.github.io/p/hugo_commmand/</link>
         <pubDate>Sun, 05 Dec 2021 23:44:07 +0800</pubDate>
         
-        <guid>https://zaaachary.github.io/post/hugo_commmand/</guid>
+        <guid>https://zaaachary.github.io/p/hugo_commmand/</guid>
         <description>&lt;h1 id=&#34;hugo-命令&#34;&gt;Hugo 命令&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;hugo server --theme=stack --buildDrafts&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;hugo --theme=stack --baseUrl=&amp;quot;https://zaaachary.github.io/&amp;quot;&lt;/code&gt;&lt;/p&gt;
@@ -18,10 +19,10 @@
         </item>
         <item>
         <title>First</title>
-        <link>https://zaaachary.github.io/post/first/</link>
+        <link>https://zaaachary.github.io/p/first/</link>
         <pubDate>Sun, 05 Dec 2021 22:51:19 +0800</pubDate>
         
-        <guid>https://zaaachary.github.io/post/first/</guid>
+        <guid>https://zaaachary.github.io/p/first/</guid>
         <description>&lt;h1 id=&#34;first-post&#34;&gt;First Post&lt;/h1&gt;
 </description>
         </item>

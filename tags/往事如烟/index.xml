@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>往事如烟 on 快刀切草莓君</title>
+    <link>https://zaaachary.github.io/tags/%E5%BE%80%E4%BA%8B%E5%A6%82%E7%83%9F/</link>
+    <description>Recent content in 往事如烟 on 快刀切草莓君</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Dec 2021 22:51:19 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/tags/%E5%BE%80%E4%BA%8B%E5%A6%82%E7%83%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://zaaachary.github.io/p/first/</link>
+      <pubDate>Sun, 05 Dec 2021 22:51:19 +0800</pubDate>
+      
+      <guid>https://zaaachary.github.io/p/first/</guid>
+      <description>First Post</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://zaaachary.github.io/content_son/first/</link>
+      <pubDate>Sun, 05 Dec 2021 22:51:19 +0800</pubDate>
+      
+      <guid>https://zaaachary.github.io/content_son/first/</guid>
+      <description>First Post</description>
+    </item>
+    
+  </channel>
+</rss>
