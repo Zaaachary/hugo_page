@@ -6,24 +6,89 @@
         <description>Recent content on 快刀切草莓君</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 05 Dec 2021 23:44:07 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hugo_commmand</title>
-        <link>https://zaaachary.github.io/p/hugo_commmand/</link>
-        <pubDate>Sun, 05 Dec 2021 23:44:07 +0800</pubDate>
+        <lastBuildDate>Sat, 08 Jan 2022 19:54:12 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Javascript Learning</title>
+        <link>https://zaaachary.github.io/p/javascript-learning/</link>
+        <pubDate>Sat, 08 Jan 2022 19:54:12 +0800</pubDate>
         
-        <guid>https://zaaachary.github.io/p/hugo_commmand/</guid>
-        <description>&lt;h1 id=&#34;hugo-命令&#34;&gt;Hugo 命令&lt;/h1&gt;
-&lt;p&gt;&lt;code&gt;hugo server --theme=stack --buildDrafts&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;hugo --theme=stack --baseUrl=&amp;quot;https://zaaachary.github.io/&amp;quot;&lt;/code&gt;&lt;/p&gt;
+        <guid>https://zaaachary.github.io/p/javascript-learning/</guid>
+        <description>&lt;p&gt;now start learning js&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>First</title>
-        <link>https://zaaachary.github.io/p/first/</link>
-        <pubDate>Sun, 05 Dec 2021 22:51:19 +0800</pubDate>
+        <title>Todo</title>
+        <link>https://zaaachary.github.io/p/todo/</link>
+        <pubDate>Fri, 08 Jan 2021 20:15:01 +0800</pubDate>
         
-        <guid>https://zaaachary.github.io/p/first/</guid>
-        <description>&lt;h1 id=&#34;first-post&#34;&gt;First Post&lt;/h1&gt;
+        <guid>https://zaaachary.github.io/p/todo/</guid>
+        <description>&lt;h1 id=&#34;todo-list&#34;&gt;TODO LIST&lt;/h1&gt;
+&lt;p&gt;Hugo, the world&amp;rsquo;s fastest framework for building websites&lt;/p&gt;
+&lt;h2 id=&#34;1-protoqa&#34;&gt;1 ProtoQA&lt;/h2&gt;
+&lt;h3 id=&#34;11-调研方向&#34;&gt;1.1 调研方向&lt;/h3&gt;
+&lt;p&gt;待调研的idea，分成 知识获取，生成模型优化，结果抽样排序三个部分&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;知识获取&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;调研 维基百科 知识库答案覆盖面&lt;/li&gt;
+&lt;li&gt;调研 维基词典 知识库答案覆盖面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;生成模型优化&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VAE &amp;amp; CVAE&lt;/li&gt;
+&lt;li&gt;R drop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;结果抽样排序&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;生成模型的抽样方式 (answer + answer 的概率)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;训练排序模型，对输出结果进行排序，对烨秋此前的结果进行排序&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;12-工程实现&#34;&gt;1.2 工程实现&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;生成模型&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;增加 attention mask&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tokenizer的结果加载 debug&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;排序模型&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;框架&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;tensorboard可视化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网格化搜索，选择较好的参数&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;2-实验室工程项目&#34;&gt;2 实验室工程项目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;冬奥会问答社区迁移&lt;/li&gt;
+&lt;li&gt;冬奥会MRC交接&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         
