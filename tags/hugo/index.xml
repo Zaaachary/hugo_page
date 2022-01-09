@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on 快刀切草莓君</title>
+    <link>https://zaaachary.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on 快刀切草莓君</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Jan 2022 20:27:28 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Command</title>
+      <link>https://zaaachary.github.io/p/hugo-command/</link>
+      <pubDate>Sun, 09 Jan 2022 20:27:28 +0800</pubDate>
+      
+      <guid>https://zaaachary.github.io/p/hugo-command/</guid>
+      <description>Hugo Command 创建新的文章 hugo create post/2022/article-name.md 本地服务器查看当前效果 hugo server -D 生成用于部署的静态文件 hugo -D</description>
+    </item>
+    
+  </channel>
+</rss>

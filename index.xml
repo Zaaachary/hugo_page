@@ -6,7 +6,27 @@
         <description>Recent content on 快刀切草莓君</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 08 Jan 2022 19:54:12 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 09 Jan 2022 20:27:28 +0800</lastBuildDate><atom:link href="https://zaaachary.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo Command</title>
+        <link>https://zaaachary.github.io/p/hugo-command/</link>
+        <pubDate>Sun, 09 Jan 2022 20:27:28 +0800</pubDate>
+        
+        <guid>https://zaaachary.github.io/p/hugo-command/</guid>
+        <description>&lt;h1 id=&#34;hugo-command&#34;&gt;Hugo Command&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;创建新的文章 &lt;code&gt;hugo create post/2022/article-name.md&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本地服务器查看当前效果 &lt;code&gt;hugo server -D&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;生成用于部署的静态文件 &lt;code&gt;hugo -D&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Javascript Learning</title>
         <link>https://zaaachary.github.io/p/javascript-learning/</link>
         <pubDate>Sat, 08 Jan 2022 19:54:12 +0800</pubDate>
@@ -16,11 +36,11 @@
 </description>
         </item>
         <item>
-        <title>Todo</title>
-        <link>https://zaaachary.github.io/p/todo/</link>
+        <title>Todo List</title>
+        <link>https://zaaachary.github.io/p/todo-list/</link>
         <pubDate>Fri, 08 Jan 2021 20:15:01 +0800</pubDate>
         
-        <guid>https://zaaachary.github.io/p/todo/</guid>
+        <guid>https://zaaachary.github.io/p/todo-list/</guid>
         <description>&lt;h1 id=&#34;todo-list&#34;&gt;TODO LIST&lt;/h1&gt;
 &lt;p&gt;Hugo, the world&amp;rsquo;s fastest framework for building websites&lt;/p&gt;
 &lt;h2 id=&#34;1-protoqa&#34;&gt;1 ProtoQA&lt;/h2&gt;
